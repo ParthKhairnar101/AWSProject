@@ -32,48 +32,65 @@ A simple task list (to-do list) CRUD application built using React.js for the fr
 
 ## Installation
 
-1. Clone the repository:
+## Clone the repository:
 
 ```bash
 git clone https://github.com/ParthKhairnar101/AWSProject.git
+```
 
-2. Navigate to the project directory:
+## Navigate to the project directory:
 
 ```bash
 cd AWSProject
+```
 
-3. Install dependencies for both frontend and backend:
+## Install dependencies for both frontend and backend:
+
+### Frontend
 
 ```bash
-# Frontend
 cd ui
 npm install
+```
 
-# Backend
+### Backend
+
+```bash
 cd ../api
 npm install
+```
 
 ## Running the Application
 
-**Frontend:**
+### Frontend
+
 ```bash
 cd ui
 npm start
-- Open http://localhost:3000 to view it in the browser.
+```
 
-**Backend:**
+- Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+### Backend
+
 ```bash
 cd api
 npm run dev
+```
 
 ## Deployment
 
 This project is deployed using AWS services:
-- DynamoDB for the database
-- AWS Amplify for hosting the frontend
-- AWS Lambda for backend functions
+
+- **DynamoDB** for the database
+- **AWS Amplify** for hosting the frontend
+- **AWS Lambda** for backend functions
+
 Follow the instructions provided in the AWS documentation for each service to set up the deployment.
 
 ## License
 
 This project is licensed under the MIT License.
+```
+
+Feel free to modify any part further if needed!
