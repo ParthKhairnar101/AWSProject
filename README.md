@@ -91,6 +91,3 @@ Follow the instructions provided in the AWS documentation for each service to se
 ## License
 
 This project is licensed under the MIT License.
-```
-
-Feel free to modify any part further if needed!
