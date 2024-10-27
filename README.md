@@ -85,6 +85,7 @@ This project is deployed using AWS services:
 - **DynamoDB** for the database
 - **AWS Amplify** for hosting the frontend
 - **AWS Lambda** for backend functions
+- **AWS IAM** for access management
 
 Follow the instructions provided in the AWS documentation for each service to set up the deployment.
 
